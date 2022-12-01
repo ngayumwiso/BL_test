@@ -1,0 +1,19 @@
+Table 1: Annualized volatilities and market cap weights,,,,,,,
+Country,Equity Index Volatility (%),Equilibrium Portfolio Weight (%),,,,,
+Australia,16.0,1.6,,,,,
+Canada,20.3,2.2,,,,,
+France,24.8,5.2,,,,,
+Germany,27.1,5.5,,,,,
+Japan,21.0,11.6,,,,,
+UK,20.0,12.4,,,,,
+USA,18.7,61.5,,,,,
+,,,,,,,
+Table 2: Covariance matrix,,,,,,,
+,Australia,Canada,France,Germany,Japan,UK,USA
+Australia,0.0256,0.0159,0.0190,0.0223,0.0148,0.0164,0.0147
+Canada,0.0159,0.0412,0.0334,0.0360,0.0132,0.0247,0.0296
+France,0.0190,0.0334,0.0615,0.0579,0.0185,0.0388,0.0310
+Germany,0.0223,0.0360,0.0579,0.0734,0.0201,0.0421,0.0331
+Japan,0.0148,0.0132,0.0185,0.0201,0.0441,0.0170,0.0120
+UK,0.0164,0.0247,0.0388,0.0421,0.0170,0.0400,0.0244
+USA,0.0147,0.0296,0.0310,0.0331,0.0120,0.0244,0.0350
